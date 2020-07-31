@@ -16,13 +16,13 @@ git clone
 
 Navigate to the developer-profile-generator folder using the command prompt.
 
-Run `npm install` to install all dependencies. To use the application locally, run `node server.js` in your CLI, and then open `http://localhost:3000` in your preferred browswer. The Note Taker app is [live on Heroku]() for you to use as well.
+Run `npm install` to install all dependencies. To use the application locally, run `node server.js` in your CLI, and then open `http://localhost:3000` in your preferred browswer. The Note Taker app is [live on Heroku](https://serene-eyrie-65629.herokuapp.com/) for you to use as well.
 
 ## Preview:
 ![Application Preview](demo.gif)
 
 ## Deployed Link:
-[Note Taker App]()
+[Note Taker App](https://serene-eyrie-65629.herokuapp.com/)
 
 ## Learning Points:
 * This app was a practice in writing the backend code only and then integrating it with provided front end code (index.html, notes.html, and custom jQuery)
